@@ -28,4 +28,4 @@ To execute your spider, run the following command within your first_scrapy direc
 
 > scrapy crawl a
 
-Then save the crawled data into csv or json file.
+Then, save the crawled data into csv or json file.
